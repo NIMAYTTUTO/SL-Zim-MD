@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] 
-global.pemilik = ['94715166712'] //pemilik nomor
-global.premium = ['94715166712'] //premium number
-global.pengguna = 'Nima' //pengguna
-global.botnma = 'GROUP BOT INC' //botnama,botname
-global.ownernma = 'nima' //ownernama,ownername
-global.packname = '© ɴɪᴍᴀ ᴇᴅɪᴛɪᴏɴ' // packname
-global.author = 'ɴɪᴍᴀ ᴏғᴄ ɢʀᴏᴜᴘ ʙᴏᴛ' //authorname
+global.owner = ['94715166712'] // Your number 
+global.pemilik = ['94715166712'] //pemilik nomor Your number
+global.premium = ['94715166712'] //premium number  Your number
+global.pengguna = 'Nima' //pengguna Your name
+global.botnma = 'GROUP BOT INC' //botnama,botname BOT name your
+global.ownernma = 'nima' //ownernama,ownername BOT owner name
+global.packname = '© ɴɪᴍᴀ ᴇᴅɪᴛɪᴏɴ' // sticker packname
+global.author = 'ɴɪᴍᴀ ᴏғᴄ ɢʀᴏᴜᴘ ʙᴏᴛ' // sticker authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -36,7 +36,7 @@ global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'zim bot must be admin neh!',
-    owner: 'This cmd is for zim bot owner only',
+    owner: 'This cmd is for sl zim bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
