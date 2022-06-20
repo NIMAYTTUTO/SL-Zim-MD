@@ -12,7 +12,7 @@
 #
 #
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkCreater2004/Tutug)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NIMAYTTUTO/SL-Zim-MD)
 
 ## BUILD PACKS
 
